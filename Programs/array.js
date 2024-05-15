@@ -7,6 +7,15 @@
     }
 
   }
+
+let age1 =[1,2,3,4,5,4,90]
+for (let i=0; i<age.length; i++)
+{
+  if (age1[i]%2==0)
+  {
+    console.log(age1[i])
+  }
+}
 // let age = [2,3,4,42,90,21,20,11]
 // for (let i=0; i<age.length; i++)
 // {
