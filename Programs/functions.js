@@ -34,12 +34,6 @@
 // console.log(b)
 // display(b)
 
-
-
-
-
-
-
 function sum(a,b)
 {
 
