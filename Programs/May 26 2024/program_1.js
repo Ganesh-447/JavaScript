@@ -1,0 +1,1 @@
+console.log("Goal is to Master Java Script")
