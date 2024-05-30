@@ -28,3 +28,4 @@ for (let i =0; i < b.length; i++)
         console.log(b[i])
     }
 }
+console.log('Need to pickup')
