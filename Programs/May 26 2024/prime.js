@@ -29,3 +29,4 @@ for (let i =0; i < b.length; i++)
     }
 }
 console.log('Need to pickup')
+console.log('June started')
