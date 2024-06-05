@@ -33,3 +33,13 @@ console.log('June started')
 console.log('came back to bangalore')
 console.log('testing')
 console.log('election result')
+
+
+let test = [23,22,10,18]
+for(let i =0; i<=test.length; i++)
+{
+    if(test[i]%2 == 0)
+    {
+        console.log(test[i])
+    }
+}
