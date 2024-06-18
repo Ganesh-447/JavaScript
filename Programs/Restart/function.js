@@ -10,3 +10,4 @@ function sumofsqures(a,b)
     return a + b;
 }
 console.log(sumofsqures(2,4))
+console.log('not much progress today')
